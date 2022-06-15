@@ -1,0 +1,21 @@
+.expenses {
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 44rem;
+    max-width: 95%;
+float: left;
+
+   
+  }
+  .expenses2{
+    padding: 1rem;
+    background-color: rgb(31, 31, 31);
+    margin: 2rem auto;
+    width: 40rem;
+    max-width: 95%;
+float: left;
+  }
+  .expense-control{
+margin-left: 2rem;
+  }

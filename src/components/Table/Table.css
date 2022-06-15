@@ -1,0 +1,9 @@
+.Table {
+    padding: 1rem;
+    border-radius: .75rem;
+   
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+  flex-direction: column;
+  }
